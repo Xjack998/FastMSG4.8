@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>FastMSG4._8</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <LangVersion>latest</LangVersion>
+    <BaseOutputPath>C:\Users\MIoppolo\OneDrive - Luxottica Group S.p.A\Documenti\SCRIPTSLOCAL\EXE\Release</BaseOutputPath>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>FastMessages</Title>
+  </PropertyGroup>
+
+</Project>

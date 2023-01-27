@@ -7,7 +7,7 @@
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <LangVersion>latest</LangVersion>
-    <BaseOutputPath>C:\Users\MIoppolo\OneDrive - Luxottica Group S.p.A\Documenti\SCRIPTSLOCAL\EXE\Release</BaseOutputPath>
+    <BaseOutputPath>C:\Users\MIoppolo\OneDrive - Luxottica Group S.p.A\Documenti\SCRIPTSLOCAL\EXE</BaseOutputPath>
     <PlatformTarget>AnyCPU</PlatformTarget>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>FastMessages</Title>

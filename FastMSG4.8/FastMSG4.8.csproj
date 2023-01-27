@@ -15,9 +15,13 @@
 
   <ItemGroup>
     <Compile Remove="bin\**" />
+    <Compile Remove="Release\**" />
     <EmbeddedResource Remove="bin\**" />
+    <EmbeddedResource Remove="Release\**" />
     <None Remove="bin\**" />
+    <None Remove="Release\**" />
     <Page Remove="bin\**" />
+    <Page Remove="Release\**" />
   </ItemGroup>
 
 </Project>
